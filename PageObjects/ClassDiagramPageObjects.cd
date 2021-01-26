@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Students_Registry_Automated_Tests.PageObjects.BasePage">
+    <Position X="2.75" Y="1.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>IBAAAAAAAAAAIAAAAAAAAACCAAAAggAAAAAAAAEAAgA=</HashCode>
+      <FileName>PageObjects\BasePage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Students_Registry_Automated_Tests.PageObjects.AddStudentPage">
+    <Position X="5.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAEAAAAACAAAiAgAAAAAIAAAAAAAA=</HashCode>
+      <FileName>PageObjects\AddStudentPage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Students_Registry_Automated_Tests.PageObjects.ViewStudentsPage">
+    <Position X="5.5" Y="3.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAEAAAAAAoAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PageObjects\ViewStudentsPage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Students_Registry_Automated_Tests.PageObjects.HomePage">
+    <Position X="8.25" Y="2.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAACAA=</HashCode>
+      <FileName>PageObjects\HomePage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
